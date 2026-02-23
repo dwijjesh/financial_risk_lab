@@ -9,7 +9,7 @@ from scipy.stats import t
 
 ticker = "RELIANCE.NS"
 
-start_date = "2010-01-01"
+start_date = "2000-01-01"
 T = 5                 # years to simulate
 steps = 252            # trading days
 simulations = 20000
@@ -114,3 +114,4 @@ plt.xlabel("Days")
 plt.ylabel("Price")
 plt.tight_layout()
 plt.show()
+
