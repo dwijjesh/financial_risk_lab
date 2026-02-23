@@ -1,5 +1,5 @@
 # Monte Carlo Simulation – Reliance Industries
-(📌 For interpretation and model limitations, see "insights.md".)
+(📌 **Important:** Interpretation of results and model limitations are discussed in `INSIGHTS.md`.)
 
 ## Objective
 Analyze long-horizon downside risk for Reliance Industries using
@@ -7,7 +7,7 @@ Monte Carlo simulation based on historical log returns.
 
 ## Contents
 - montecarlo_model.py : Simulation code
-- insights.md : Interpretation, limitations, and key observations
+- INSIGHTS.md : Interpretation of results, limitations, and key observations
 
 ## How to Run
 1. pip install numpy pandas matplotlib yfinance scipy
