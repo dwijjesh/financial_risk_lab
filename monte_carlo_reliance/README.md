@@ -1,4 +1,5 @@
 # Monte Carlo Simulation – Reliance Industries
+(📌 For interpretation and model limitations, see "insights.md".)
 
 ## Objective
 Analyze long-horizon downside risk for Reliance Industries using
